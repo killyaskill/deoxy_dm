@@ -2,7 +2,7 @@
  
  
  
- $updater = new MakeitWorkPress\WP_Updater\Boot(['type' => 'theme', 'source' => 'https://github.com/yourname/theme-on-github']);
+ $updater = new MakeitWorkPress\WP_Updater\Boot(['type' => 'theme', 'source' => 'https://github.com/killyaskill/deoxy_dm']);
 
 // Load Stylesheets
 function load_css()
